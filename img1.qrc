@@ -1,0 +1,14 @@
+<RCC>
+    <qresource>
+        <file alias="newPrefix/community.jpg">newPrefix/community.jpg</file>
+        <file alias="newPrefix/gas.jpg">newPrefix/gas.jpg</file>
+        <file alias="newPrefix/print.jpg">newPrefix/print.jpg</file>
+        <file alias="newPrefix/set.jpg">newPrefix/set.jpg</file>
+        <file alias="newPrefix/stop.jpg">newPrefix/stop.jpg</file>
+        <file alias="newPrefix/test.jpg">newPrefix/test.jpg</file>
+        <file alias="newPrefix/zero.jpg">newPrefix/zero.jpg</file>
+        <file alias="newPrefix/line2.png">newPrefix/line2.png</file>
+        <file alias="newPrefix/sinx.png">newPrefix/sinx.png</file>
+        <file alias="newPrefix/line3.png">newPrefix/line3.png</file>
+    </qresource>
+</RCC>
